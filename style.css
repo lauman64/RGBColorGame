@@ -1,0 +1,41 @@
+body{
+	background-color: #333333;
+}
+
+h1, h2{
+	color: white;
+}
+
+
+.square{
+	width:30%;
+	padding-bottom: 30%;
+	background-color: green;
+	float: left;
+	margin: 1.66%;
+	border-radius:25px;
+}
+
+#container{
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
+}
+
+.reset, .status{
+	width: 22.5%;
+	float: left;
+	margin: 1.125%
+
+}
+
+.difficulty{
+	width: 47.5%;
+	float: left;
+	margin: 1.125%;
+
+}
+
+.menu{
+	background-color: lightblue;
+}
